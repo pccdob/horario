@@ -181,6 +181,18 @@
                 </div>
               </div>
             </div>
+
+            <div class="member">
+              <div class="pic"><img src="img/fotos/9.JPG" alt=""></div>
+              <div class="details">
+                <h4>Raynna Barbosa</h4>
+                <span>Programadora de Front-end</span>
+                <div class="social">
+                  
+                  <a href="https://www.instagram.com/raybarbosa17/" target="_blank"><i class="fa fa-instagram"></i></a>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
